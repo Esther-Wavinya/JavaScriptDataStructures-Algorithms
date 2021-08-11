@@ -4,7 +4,7 @@
 function addUpTo(n) {
   return n * (n + 1) / 2;
 }
-
+//built in timing function for speed(timers)
 var time1 = performance.now();
 addUpTo(1000000000);
 var time2 = performance.now();
