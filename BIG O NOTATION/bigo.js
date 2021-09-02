@@ -39,4 +39,13 @@ The Problem with Time
 Different machines will record different times
 The same machine will record different times!
 For fast algorithms, speed measurements may not be precise enough?
+
+
+
+
+Big O Shorthands -Time complexity
+Arithmetic operations are constant
+Variable assignment is constant
+Accessing elements in an array (by index) or object (by key) is constant
+In a loop,  the complexity is the length of the loop times the complexity of whatever happens inside of the loop
  */
