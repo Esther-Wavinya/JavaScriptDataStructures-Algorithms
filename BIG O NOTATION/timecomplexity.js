@@ -80,4 +80,33 @@ function subtotals(array) {
   O(n^2)
 
 
-  
+
+
+
+
+
+
+
+
+  //Question 1:
+//Simplify the big O expression as much as possible - 
+O(n + 10)           = O(n)
+
+
+
+//Question 2:
+//Simplify the big O expression as much as possible - 
+O(100 * n)          = O(n)
+
+
+
+
+//Question 3:
+//Simply the following big O expression as much as possible - 
+O(25)            = O(1)
+
+
+
+//Question 4:
+//Simply the following big O expression as much as possible -  
+O(n^2 + n^3)      = O(n^3)
